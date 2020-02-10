@@ -11,6 +11,9 @@ https://www.cs.dartmouth.edu/~scot/cs10/mac_install/mac_install.html
 ## Intellij
 Install jetbrains toolbox and then use it to download intellij, pycharm etc.
 
+## Python3
+1. brew install python
+2. 
 ## List of tools you need
 1. git
 2. intellij
