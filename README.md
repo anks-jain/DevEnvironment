@@ -12,9 +12,13 @@ https://www.cs.dartmouth.edu/~scot/cs10/mac_install/mac_install.html
 Install jetbrains toolbox and then use it to download intellij, pycharm etc.
 
 ## Python3
-1. brew install python
-2. 
-## List of tools you need
-1. git
-2. intellij
-3. 
+brew install python
+
+## AWS CLI
+### Install
+https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#awscli-install-osx-pip
+### Configure
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+
+
